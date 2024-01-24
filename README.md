@@ -1,6 +1,10 @@
 # clan_stash_logger
 
+## Installation
+To install, paste `git checkout https://github.com/jimmyking9999999/clan_stash_logger_kolmafia.git main` into your KoLMafia GCLI.
 
+
+## Usage
 Download and save as clan_stash_logger.ash, and place in your KoL/Scripts folder
 
 To run, call `clan_stash_logger` in your KoLMafia GCLI
